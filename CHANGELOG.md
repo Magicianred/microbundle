@@ -1,5 +1,13 @@
 # microbundle
 
+## 0.13.1
+
+### Patch Changes
+
+- [`edcd777`](https://github.com/developit/microbundle/commit/edcd777cfaedfdb436c62b5dcb3cff6291268e4c) [#823](https://github.com/developit/microbundle/pull/823) Thanks [@rschristian](https://github.com/rschristian)! - Ensures ambient type declaration for CSS Modules is included in the published bundle
+
+* [`d87a5dc`](https://github.com/developit/microbundle/commit/d87a5dc286a1edba92ca3ec5b534807688c90854) Thanks [@developit](https://github.com/developit)! - - Fix `--sourcemap=false` to match `--no-sourcemap` and actually turn sourcemaps off.
+
 ## 0.13.0
 
 ### Minor Changes
